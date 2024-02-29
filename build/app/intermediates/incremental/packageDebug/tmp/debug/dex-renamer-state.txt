@@ -1,0 +1,4 @@
+#Thu Feb 29 23:15:50 ICT 2024
+base.0=D\:\\sekolah\\Flutter-Cart-Sqflite\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

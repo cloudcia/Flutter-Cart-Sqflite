@@ -1,0 +1,1 @@
+ D:\\sekolah\\Flutter-Cart-Sqflite\\.dart_tool\\flutter_build\\ccb12167f1019512b262fcf0c20f7dd1\\native_assets.yaml: 

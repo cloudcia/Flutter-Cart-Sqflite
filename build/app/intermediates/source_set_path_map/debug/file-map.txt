@@ -1,0 +1,15 @@
+com.example.flutter_cart_sqflite.app-jetified-window-java-1.0.0-beta04-0 C:\Users\LENOVO YOGA\.gradle\caches\transforms-3\18deafea6fd8bd15b4ac488481ce7189\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_cart_sqflite.app-core-1.6.0-1 C:\Users\LENOVO YOGA\.gradle\caches\transforms-3\87955219ada9e4e421baba4d189bfc74\transformed\core-1.6.0\res
+com.example.flutter_cart_sqflite.app-jetified-window-1.0.0-beta04-2 C:\Users\LENOVO YOGA\.gradle\caches\transforms-3\cc5bad0ed8e76ce4cfc4c687e304cead\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_cart_sqflite.app-jetified-annotation-experimental-1.1.0-3 C:\Users\LENOVO YOGA\.gradle\caches\transforms-3\f57c9dcbaac671d409c90afd181b1c28\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_cart_sqflite.app-debug-4 D:\sekolah\Flutter-Cart-Sqflite\android\app\src\debug\res
+com.example.flutter_cart_sqflite.app-main-5 D:\sekolah\Flutter-Cart-Sqflite\android\app\src\main\res
+com.example.flutter_cart_sqflite.app-pngs-6 D:\sekolah\Flutter-Cart-Sqflite\build\app\generated\res\pngs\debug
+com.example.flutter_cart_sqflite.app-resValues-7 D:\sekolah\Flutter-Cart-Sqflite\build\app\generated\res\resValues\debug
+com.example.flutter_cart_sqflite.app-rs-8 D:\sekolah\Flutter-Cart-Sqflite\build\app\generated\res\rs\debug
+com.example.flutter_cart_sqflite.app-mergeDebugResources-9 D:\sekolah\Flutter-Cart-Sqflite\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_cart_sqflite.app-mergeDebugResources-10 D:\sekolah\Flutter-Cart-Sqflite\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_cart_sqflite.app-merged_res-11 D:\sekolah\Flutter-Cart-Sqflite\build\app\intermediates\merged_res\debug
+com.example.flutter_cart_sqflite.app-packaged_res-12 D:\sekolah\Flutter-Cart-Sqflite\build\path_provider_android\intermediates\packaged_res\debug
+com.example.flutter_cart_sqflite.app-packaged_res-13 D:\sekolah\Flutter-Cart-Sqflite\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.flutter_cart_sqflite.app-packaged_res-14 D:\sekolah\Flutter-Cart-Sqflite\build\sqflite\intermediates\packaged_res\debug
